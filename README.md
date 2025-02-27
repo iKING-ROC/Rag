@@ -1,21 +1,3 @@
-Here’s the revised version of the README, keeping only the necessary usage information:
-
----
-
-## 🎮 Demo
-Try our demo at [https://demo.ragflow.io](https://demo.ragflow.io).
-
-<div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/infiniflow/ragflow/assets/7248/2f6baa3e-1092-4f11-866d-36f6a9d075e5" width="1200"/>
-</div>
-
-## 🔥 Latest Updates
-
-- 2025-02-05 Updates the model list of 'SILICONFLOW' and adds support for Deepseek-R1/DeepSeek-V3.
-- 2025-01-26 Optimizes knowledge graph extraction and application, offering various configuration options.
-- 2024-12-18 Upgrades Document Layout Analysis model in Deepdoc.
-- 2024-12-04 Adds support for pagerank score in knowledge base.
-- 2024-11-22 Adds more variables to Agent.
 
 ## 🌟 Key Features
 
@@ -126,9 +108,6 @@ See the [RAGFlow Roadmap 2025](https://github.com/infiniflow/ragflow/issues/4214
 - [GitHub Discussions](https://github.com/orgs/infiniflow/discussions)
 
 ## 🙌 Contributing
+Forked from https://github.com/infiniflow/ragflow
 
-Review our [Contribution Guidelines](./CONTRIBUTING.md) to contribute.
 
---- 
-
-Let me know if you'd like to make any more adjustments!
